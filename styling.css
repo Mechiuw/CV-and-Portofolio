@@ -1,0 +1,153 @@
+body {
+	background-color: transparent;
+	margin: 0px;
+	padding: 0px;
+	font-family: Arial, sans-serif;
+
+}
+.background {
+
+    padding: 60px;
+	margin: 0px ;
+	background-image: url(leaves2.jpg);
+	background-size: cover;
+	background-position: center;
+	position: relative;
+	max-width: 100%;
+	position: relative;
+	height: 100vh;
+}
+
+
+.title {
+	padding-top: 0px;
+    padding-bottom: 0px;
+	margin-top: 0px;
+    margin-bottom: 0px;
+	font-family: founders grotesk;
+	text-align: center ;
+	font-weight: bolder; 100;
+	color: white;
+    font-size: 45px;
+
+
+}            
+.sub-title {
+    padding-top: 0px;
+
+	margin-top: 0px ;
+	margin-bottom: 0px;
+	font-family: founders grotesk;
+	text-align: center ;
+
+	font-weight: bold 100;
+	color: white;
+}
+.icons-interface {
+	
+	margin-left: 520px;
+	margin-top: 200px ;
+    margin-bottom: 5px;
+    display: block;
+	max-width: 10%;
+	display: flex;
+	width: 100px;
+	height: 165px;
+	
+    justify-content: left;
+
+
+}
+.container-buttons{
+
+    margin-left: 520px;
+    margin-top: 200px ;
+	margin-bottom: 5px;
+    margin-top: 5px;
+}
+.id-button {
+	margin:10px;
+	display: inline-block;
+	padding: 15px 25px;
+	background-color: white;
+	color: #000;
+	text-align: center;
+	text-decoration: inherit;
+	border: white;
+	border-radius: 50px;
+	cursor: pointer;
+	font-family: founders grotesk;
+	font-weight: bolder;
+	font-size: 18px;
+}    
+.edu-button{
+	margin:10px;
+	display: inline-block;
+	padding: 15px 25px;
+	background-color: white;
+	color: #000;
+	text-align: center;
+	text-decoration: inherit;
+	border: white;
+	border-radius: 50px;
+	cursor: pointer;
+	font-family: founders grotesk;
+	font-weight: bolder;
+	font-size: 18px;
+}
+.skill-button {
+	margin:10px;
+	display: inline-block;
+	padding: 15px 25px;
+	background-color: white;
+	color: #000;
+	text-align: center;
+	text-decoration: inherit;
+	border: white;
+	border-radius: 50px;
+	cursor: pointer;
+	font-family: founders grotesk;
+	font-weight: bolder;
+	font-size: 18px;
+}
+.workexp-button {
+	margin:10px;
+	display: inline-block;
+	padding: 15px 25px;
+	background-color: white;
+	color: #000;
+	text-align: center;
+	text-decoration: inherit;
+	border: white;
+	border-radius: 50px;
+	cursor: pointer;
+	font-family: founders grotesk;
+	font-weight: bolder;
+	font-size: 18px;
+}
+.container {
+	display: flex;
+	justify-content: center;
+	margin-top: 200px ;
+}
+.boss-icon {
+	margin:10px;
+	margin-right:35px;
+	margin-left: 25px;
+}
+.book-icon {
+	margin:10px;
+	margin-right:35px;
+	height: 150px;
+	margin-left: 10px;
+}
+.check-icon {
+	margin:10px;
+	margin-right:35px;
+	margin-left: -1px;
+}
+.work-icon {
+	margin:10px;
+	margin-right:35px;
+	margin-left: -5px;
+}    

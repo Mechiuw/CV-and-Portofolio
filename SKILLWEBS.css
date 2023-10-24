@@ -1,0 +1,88 @@
+Body {
+	background-color: white;
+	margin:0px;
+	padding: 0px;
+	font-family: Arial, sans-serif;
+
+}
+
+
+.Skill-pic {
+
+	
+	max-width:45%;
+	margin-top: 0px ;
+	padding-top: 0px;
+	border-radius: 90px;
+	padding-left: 20px;
+	padding-bottom: 45px;
+
+	float: left; 
+	max-height: 100% ;
+	
+} 
+.Textbox {
+	margin-top: 60px;
+	padding-top: 180px;
+	color: green;
+}    
+.Main-title {
+
+	display: block;
+	margin-bottom: 30-px;
+	margin-top: -50px;
+	padding-bottom: 60px ;
+	margin-left: 900px;
+	font-family: neutral face;
+	font-weight: lighter;
+	font-size: 140px;
+	color: lightgreen;
+
+}
+.java-description {
+	font-family: founders grotesk;
+	font-size: 20px;
+
+	margin-top: 95px;
+	font-weight: normal 300;
+	margine-left: 2000px;
+	padding-left: 45px;
+	display: block;
+	display: flex;
+}
+.html-description {
+
+	font-family: founders grotesk;
+	font-size: 20px;
+
+	margin-top: 95px;
+	font-weight: normal 300;
+	margine-left: 2000px;
+	padding-left: 45px;
+	display: block;
+	display: flex;
+}
+.css-description {
+
+	font-family: founders grotesk;
+	font-size: 20px;
+
+	margin-top: 95px;
+	font-weight: normal 300;
+	margine-left: 2000px;
+	padding-left: 45px;
+	display: block;
+	display: flex;
+}
+.GD-description {
+
+	font-family: founders grotesk;
+	font-size: 20px;
+
+	margin-top: 95px;
+	font-weight: normal 300;
+	margine-left: 2000px;
+	padding-left: 45px;
+	display: block;
+	display: flex;
+}
