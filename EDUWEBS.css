@@ -1,0 +1,32 @@
+body {
+	background-color: black;
+}
+.title {
+	margin-top: 0px;
+	font-family: neutral face;
+	font-size: 70px;
+	color: white;
+	font-weight: lighter;
+}
+.EDU-pic {
+	 
+	display: block;
+	margin: 0px;
+	width: auto ;
+	max-width: 100%;
+	height: auto ;
+}                 
+.pre-subtitle {
+	font-weight: lighter;
+	color: white;
+	font-family: neutral face;
+	margin-top: 0px;
+	font-size: 20px;
+}
+.F-description {
+	font-family: founders grotesk;
+	color: white;
+	font-size: 20px;
+	font-weight: normal 200px;
+	margin-top: auto;
+}
